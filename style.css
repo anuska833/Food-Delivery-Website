@@ -67,7 +67,7 @@ html{
 }
 #home::before{
     content: "";
-    background: url('../new12.jpg') no-repeat center center/cover;
+    background: url('new12.jpg') no-repeat center center/cover;
     position: absolute;
     height: 490px;
     width: 100%;
@@ -137,7 +137,7 @@ html{
 }
 #contact::before{
     content: "";
-    background: url('../d31.jpg') no-repeat center center/cover;
+    background: url('d31.jpg') no-repeat center center/cover;
     position: absolute;
     height: 100%;
     width: 100%;
