@@ -1,0 +1,55 @@
+/* navigation */
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a{
+    font-size: 1.3rem;
+    padding: 0px 6px;
+    /* padding-bottom: 3px; */
+}
+/* home */
+#home{
+    height: 331px;
+    padding: 0px 62px;
+}
+#home::before{
+    height: 432px;
+}
+#home p{
+    font-size: 15px;
+}
+/* services */
+.bigbox{
+    flex-direction: column;
+}
+#container .services {
+    padding: 13px;
+    margin: 5px 0px;
+}
+/* brands */
+.rest{
+    flex-wrap: wrap;
+}
+.rest img{
+    width:75px;
+    padding: 1px;
+    height: auto;
+}
+/* contact us */
+#contact-box form{
+    width: 90%;
+}
+/* footer */
+/* Utility classes */
+.primary{
+    font-size: 33px;
+}
+.secondary{
+    font-size: 18px;
+}
+.btn{
+    padding: 5px 33px;
+    margin: 10px 0px;
+    font-size: 1rem;
+    border: 2px solid white;
+}
